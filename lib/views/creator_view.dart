@@ -5,18 +5,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
-import 'package:http/http.dart';
 
 import '../creator_module/controllers/creator_controller.dart';
-// import 'dart:ffi';
-// import 'package:flutter/cupertino.dart';
-// import 'package:flutter/material.dart';
-// import 'package:get/get.dart';
-// import 'package:flutter/services.dart';
-// import 'package:flutter/src/widgets/container.dart';
-// import 'package:flutter/src/widgets/framework.dart';
-
-// import '../creator_module/controllers/creator_controller.dart';
 
 class creator_screen extends StatelessWidget {
   creator_screen() {
@@ -104,7 +94,8 @@ class creator_screen extends StatelessWidget {
                                       onTap: () {
                                         Get.to(() => Donate_Screen(controller
                                             .items.value[index]["userName"],controller.items.value[index]
-                                            ["profileUrl"]));
+                                            ["profileUrl"],controller.items.value[index]
+                                            ["id"]));
                                       },
                                       child: Image.network(
                                         controller.items.value[index]

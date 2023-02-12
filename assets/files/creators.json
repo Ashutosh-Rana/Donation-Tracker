@@ -4,13 +4,13 @@
             "id":"C1",
             "userName":"BB Ki Vines",
             "profileUrl":"https://www.koimoi.com/wp-content/new-galleries/2021/10/bhuvan-bam-reveals-singing-in-bars-before-youtube-fame-001.jpg",
-            "profession":"actor"
+            "profession":"Actor"
         },
         {
             "id":"C2",
             "userName":"CarryMinati",
             "profileUrl":"https://image3.mouthshut.com/images/imagesp/926019277s.jpg",
-            "profession":"youtuber"
+            "profession":"YouTuber"
         },
         {
             "id":"C3",
@@ -20,39 +20,39 @@
         },
         {
             "id":"C4",
-            "userName":"PewDiePie",
-            "profileUrl":"https://media.gettyimages.com/id/494848194/photo/pewdiepie-signs-copies-of-his-new-book-this-book-loves-you.jpg?s=594x594&w=gi&k=20&c=s5pByqrzjLt1HJtlfv4SyiiBYrzePKd5TRlgJTr02s0=",
-            "profession":"actor"
+            "userName":"MrBeast",
+            "profileUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/MrBeast.jpg/640px-MrBeast.jpg",
+            "profession":"YouTuber"
         },
         {
             "id":"C5",
-            "userName":"BB Ki Vines",
-            "profileUrl":"https://www.koimoi.com/wp-content/new-galleries/2021/10/bhuvan-bam-reveals-singing-in-bars-before-youtube-fame-001.jpg",
-            "profession":"actor"
+            "userName":"Marshmello",
+            "profileUrl":"https://pbs.twimg.com/media/FRUNUjxXoAIpZN9?format=jpg&name=large",
+            "profession":"Music Producer"
         },
         {
             "id":"C6",
-            "userName":"CarryMinati",
-            "profileUrl":"https://image3.mouthshut.com/images/imagesp/926019277s.jpg",
-            "profession":"youtuber"
+            "userName":"Justin Beiber",
+            "profileUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Justin_Bieber_in_2015.jpg/800px-Justin_Bieber_in_2015.jpg",
+            "profession":"Singer"
         },
         {
             "id":"C7",
-            "userName":"PewDiePie",
-            "profileUrl":"https://media.gettyimages.com/id/494848194/photo/pewdiepie-signs-copies-of-his-new-book-this-book-loves-you.jpg?s=594x594&w=gi&k=20&c=s5pByqrzjLt1HJtlfv4SyiiBYrzePKd5TRlgJTr02s0=",
-            "profession":"Musician"
+            "userName":"Taylor Swift",
+            "profileUrl":"https://assets.vogue.com/photos/5d4c4ab1051fb100082dcb10/master/w_1600%2Cc_limit/VO090119_INSIDE_no_coverlines.jpg",
+            "profession":"Singer"
         },
         {
             "id":"C8",
-            "userName":"PewDiePie",
-            "profileUrl":"https://media.gettyimages.com/id/494848194/photo/pewdiepie-signs-copies-of-his-new-book-this-book-loves-you.jpg?s=594x594&w=gi&k=20&c=s5pByqrzjLt1HJtlfv4SyiiBYrzePKd5TRlgJTr02s0=",
-            "profession":"actor"
+            "userName":"Alan Walker",
+            "profileUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Alan_Walker_25_year.jpg/330px-Alan_Walker_25_year.jpg",
+            "profession":"Music Producer"
         },
         {
             "id":"C9",
-            "userName":"BB Ki Vines",
-            "profileUrl":"https://www.koimoi.com/wp-content/new-galleries/2021/10/bhuvan-bam-reveals-singing-in-bars-before-youtube-fame-001.jpg",
-            "profession":"actor"
+            "userName":"Rihanna",
+            "profileUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Rihanna_Fenty_2018.png/330px-Rihanna_Fenty_2018.png",
+            "profession":"Singer"
         }
     ]
 }
