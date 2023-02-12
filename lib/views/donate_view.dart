@@ -142,17 +142,6 @@ class Donate_Screen extends StatelessWidget {
                         EdgeInsets.symmetric(vertical: 45.0, horizontal: 10)),
               ),
             ),
-            // ElevatedButton(
-            //     style: ElevatedButton.styleFrom(
-            //       backgroundColor: Color.fromARGB(255, 38, 9, 224),
-            //       shape: RoundedRectangleBorder(
-            //           borderRadius: BorderRadius.circular(16.0)),
-            //     ),
-            //     onPressed: () {},
-            //     child: Text(
-            //       "Support ",
-            //       style: TextStyle(fontSize: 20),
-            //     ))
           ],
         ),
       ),
